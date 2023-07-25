@@ -2,6 +2,7 @@
   "name": "harsh-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://HarshMiglani.github.io/personal-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -14,7 +15,6 @@
     "typewriter-effect": "2.20.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://HarshMiglani.github.io/personal-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
