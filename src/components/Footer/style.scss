@@ -1,0 +1,31 @@
+// Footer.scss
+
+.footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    .nextPage{
+      justify-content: center;
+      background-color: #a69797;
+      padding: 20px;
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .downArrow{
+      padding-left: 19%;
+    }
+    a.social-link {
+      color: #000;
+      float: right;
+      margin-right: 15px;
+    &:hover {
+      color: #fff;
+    }
+}
+  }
+  
+
+
+
+  
