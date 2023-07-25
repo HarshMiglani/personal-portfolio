@@ -7,7 +7,7 @@ function Navbar() {
     <nav className = 'navlist'>
       <ul className = 'navlist_ul'>
         <li>
-          <NavLink to="/" activeClassName="active" exact>
+          <NavLink to="/personal-portfolio" activeClassName="active" exact>
             Home
           </NavLink>
         </li>
